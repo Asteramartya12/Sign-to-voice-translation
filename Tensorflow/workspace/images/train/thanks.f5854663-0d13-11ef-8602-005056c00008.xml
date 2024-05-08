@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.f5854663-0d13-11ef-8602-005056c00008.jpg</filename>
+	<path>D:\machine learning\sign to voice\Sign-to-voice-translation\Tensorflow\workspace\images\collectedimages\thanks.f5854663-0d13-11ef-8602-005056c00008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>114</ymin>
+			<xmax>468</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>
